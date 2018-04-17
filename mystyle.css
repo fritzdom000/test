@@ -1,9 +1,13 @@
 h1 {
   color: #5F718B;
   letter-spacing: 5px;
+  text-shadow: 3px 2px #F5F7FB;
 }
 
 p {
   color: #87A0C7;
   letter-spacing: -2px;
-  }
+}
+body {
+  background-color: #D8E2F1;
+}
